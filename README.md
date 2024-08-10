@@ -5,7 +5,7 @@
     <title>Interactive Process</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/wBhrLRb/Whats-App-Image-2024-08-11-at-01-10-58.jpg');
+            background-image: url('[https://i.ibb.co/wBhrLRb/Whats-App-Image-2024-08-11-at-01-10-58.jpg](https://i.ibb.co/j4KBvL6/Whats-App-Image-2024-08-11-at-01-17-24.jpg)');
             background-size: cover; /* Ensures the background covers the entire page */
             background-repeat: no-repeat; /* Prevents the image from repeating */
             background-attachment: fixed; /* Keeps the background image fixed when scrolling */
